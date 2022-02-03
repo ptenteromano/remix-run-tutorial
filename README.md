@@ -2,6 +2,11 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+
+## From me
+This also includes more packages for UI. Good examples on design system integration
+[@mui/material](https://mui.com/getting-started/installation/)
+
 ## Development
 
 From your terminal:
